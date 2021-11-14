@@ -27,6 +27,10 @@ Below are examples of how to use the filters menu on the interactive webpage.
 ### Filter by Country & Shape
 ![filtershape](https://user-images.githubusercontent.com/89284280/141701326-22a85aa1-134f-47bc-93e0-4cfc71ee6df6.PNG)
 
+### Filter by All fields
+![filterall](https://user-images.githubusercontent.com/89284280/141701773-b2b4f097-4afa-486b-99ff-dfb6fcf1c3c7.PNG)
+
+
 ## Summary
 The interactive webpage works as intended - it allows the user to interact with the webpage and apply filters to the table. The table is dynamic and responds to the users input. However, there are some drawbacks to this design, including:
 - The user does not know all the fields they can search on. Because of the length of the table, it is hard for the user to know exactly all the field values they can input to filter on.
