@@ -32,14 +32,14 @@ Below are examples of how to use the filters menu on the interactive webpage.
 
 
 ## Summary
-The interactive webpage works as intended - it allows the user to interact with the webpage and apply filters to the table. The table is dynamic and responds to the users input. However, there are some drawbacks to this design, including:
+The interactive webpage works as intended - it allows the user to interact with the webpage and apply filters to the table. The table is dynamic and responds to the user's input. However, there are some drawbacks to this design, including:
 - The user does not know all the fields they can search on. Because of the length of the table, it is hard for the user to know exactly all the field values they can input to filter on.
-  - Recommended to instead provide a pull down menu of all eliglble fields that can be filtered on.   
-- Total results is not know. When a user filters the data table the only way for them to know how many results they found is based on their ability to count each row returns by themselves.
+  - It is recommended to instead provide a pull down menu of all eliglble fields that can be filtered.   
+- Total results is not know. When a user filters the data table the only way for them to know how many results they found is based on their ability to count each row returned by themselves.
   - Provide a count of total rows returned
 - User is not able to filter by duration of the UFO sighting
   - Create a filter to search by duration (less than, greater than or equal to a specified duration)
 - User is not able to filter by the comments
   - Allow the user to filter by comments by either exact or partial string matches.
-- There is no sorting of the data table. For example, sorting by city to have all the results by each unique city shown together.
+- There is no sorting of the data table. For example, sorting by city so that all the results by each unique city are shown together.
   - Add sorting toggles to each column that will sort the table.
